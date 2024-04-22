@@ -1,0 +1,29 @@
+.filtered-group-container {
+  display: flex;
+  flex-direction: column;
+}
+.text-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: bold;
+}
+.salary-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: bold;
+}
+.unordered-list {
+  list-style-type: none;
+  padding-left: 0px;
+}
+.text {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 300;
+}
+.list-element {
+  margin-bottom: 10px;
+}

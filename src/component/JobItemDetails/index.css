@@ -1,0 +1,117 @@
+.job-card-container {
+  display: flex;
+  flex-direction: column;
+}
+.job-card-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #000000;
+}
+.job-container {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  background-color: #212121;
+  margin: 40px;
+  border-radius: 10px;
+  padding: 30px;
+}
+.website-logo {
+  width: 13vh;
+  height: 13vh;
+}
+.line {
+  width: '100%';
+}
+.location-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.brief-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-left: 20px;
+}
+.star-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-left: 10px;
+}
+.lo-bri-container {
+  display: flex;
+  flex-direction: row;
+  margin-top: 0px;
+}
+.lo-bri-package-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 15px;
+}
+.brief {
+  color: #cbd5e1;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 400;
+  margin-left: 5px;
+}
+.location {
+  color: #cbd5e1;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 400;
+  margin-left: 5px;
+}
+.type {
+  color: #f1f5f9;
+  font-size: 16px;
+}
+.star {
+  color: #fbbf24;
+  font-size: 14px;
+}
+.rating {
+  color: #cbd5e1;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 400;
+}
+.title-container {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+}
+.title {
+  color: #f1f5f9;
+  font-family: 'Roboto';
+  font-size: 22px;
+  font-weight: bold;
+  margin-left: 10px;
+}
+.image-title-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.description-heading {
+  color: #f1f5f9;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: bold;
+}
+.description {
+  color: #cbd5e1;
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 300;
+}
+.skills-heading {
+  color: #f1f5f9;
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: 500;
+}

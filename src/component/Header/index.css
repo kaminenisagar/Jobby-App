@@ -1,0 +1,53 @@
+.header-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #272727;
+  padding: 20px;
+}
+.logo {
+  width: 30vh;
+  height: 7vh;
+  margin-right: 25px;
+}
+.links-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  list-style-type: none;
+  margin-left: 0px;
+}
+.log-btn {
+  color: #ffffff;
+  background-color: #6366f1;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 500;
+  border-radius: 5px;
+  border-width: 0px;
+  padding-top: 5px;
+  padding-bottom: 6px;
+  padding-left: 10px;
+  padding-right: 10px;
+  align-items: center;
+  margin-right: 25px;
+}
+.link-home {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 500;
+  margin-right: 8px;
+}
+.link-jobs {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 500;
+  margin-left: 8px;
+}
+.link {
+  text-decoration: none;
+}
